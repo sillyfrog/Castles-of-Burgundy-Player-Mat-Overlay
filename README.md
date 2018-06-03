@@ -1,7 +1,7 @@
 # Castles-of-Burgundy-Player-Mat-Overlay
 Castles of Burgundy Player Mat Overlay OpenSCAD Source
 
-An overlay for The Castles of Burgundy player mats, to keeps the hexes in place while playing and avoid a disaster if things get knocked. See the compiled STL files on Thingiverse here: XXX
+An overlay for The Castles of Burgundy player mats, to keeps the hexes in place while playing and avoid a disaster if things get knocked. See the compiled STL files on Thingiverse here: https://www.thingiverse.com/thing:2944971
 
 The size of the final product was so it would fit on my printer (just!), an Anet A8. Also, that way it can fit in the original box rotated 90° (as the lips for the edges make it too wide otherwise).
 
